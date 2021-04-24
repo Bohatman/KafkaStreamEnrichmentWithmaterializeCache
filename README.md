@@ -56,6 +56,6 @@ Result:
 
 Average:  **353.5630234** query per second
 
-If add more partition speed up  duration {number of partition}x shorter (KSQL node,Broker node must relate with number of partition)
+If add more partition reduce duration {number of partition}x shorter (KSQL node,Broker node must relate with number of partition)
 
 Ref: https://www.confluent.io/blog/how-real-time-stream-processing-safely-scales-with-ksqldb/
